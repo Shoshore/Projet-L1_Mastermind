@@ -1,0 +1,7 @@
+PouetPouetLamouette#42:
+['green', 'yellow', 'yellow', 'orange']
+5
+1
+[['red', 'blue', 'yellow', 'purple'], '/', ['green', 'orange', 'black', 'pink'], '/', ['black', 'blue', 'black', 'pink'], '/', ['red', 'orange', 'green', 'purple'], '/', ['green', 'black', 'yellow', 'orange'], '/']
+[1, 1, 0, 0, 3]
+[0, 1, 0, 2, 0]
